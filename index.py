@@ -13,7 +13,7 @@ POBLACION = 100
 GENES = '''abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOP
 QRSTUVWXYZ '''
 
-CADENA = "Andrea Bedoya Berrio"
+CADENA = "Diego Alejandro Hernandez Villegas"
 
 class Poblacion_Individuo(object):
 
