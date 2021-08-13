@@ -1,0 +1,2 @@
+# IA-AlgoritmoGenetico
+Algoritmo genético
